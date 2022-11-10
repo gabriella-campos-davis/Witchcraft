@@ -1,0 +1,9 @@
+D:\VSMods\Witchcraft\bin\Debug\net461\witchcraft.dll
+D:\VSMods\Witchcraft\bin\Debug\net461\witchcraft.pdb
+D:\VSMods\Witchcraft\obj\Debug\net461\witchcraft.csproj.AssemblyReference.cache
+D:\VSMods\Witchcraft\obj\Debug\net461\witchcraft.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSMods\Witchcraft\obj\Debug\net461\witchcraft.AssemblyInfoInputs.cache
+D:\VSMods\Witchcraft\obj\Debug\net461\witchcraft.AssemblyInfo.cs
+D:\VSMods\Witchcraft\obj\Debug\net461\witchcraft.csproj.CoreCompileInputs.cache
+D:\VSMods\Witchcraft\obj\Debug\net461\witchcraft.dll
+D:\VSMods\Witchcraft\obj\Debug\net461\witchcraft.pdb

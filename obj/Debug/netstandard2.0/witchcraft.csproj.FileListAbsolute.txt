@@ -1,0 +1,10 @@
+D:\VSMods\Witchcraft\obj\Debug\netstandard2.0\witchcraft.csproj.AssemblyReference.cache
+D:\VSMods\Witchcraft\obj\Debug\netstandard2.0\witchcraft.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSMods\Witchcraft\obj\Debug\netstandard2.0\witchcraft.AssemblyInfoInputs.cache
+D:\VSMods\Witchcraft\obj\Debug\netstandard2.0\witchcraft.AssemblyInfo.cs
+D:\VSMods\Witchcraft\obj\Debug\netstandard2.0\witchcraft.csproj.CoreCompileInputs.cache
+D:\VSMods\Witchcraft\bin\Debug\netstandard2.0\witchcraft.deps.json
+D:\VSMods\Witchcraft\bin\Debug\netstandard2.0\witchcraft.dll
+D:\VSMods\Witchcraft\bin\Debug\netstandard2.0\witchcraft.pdb
+D:\VSMods\Witchcraft\obj\Debug\netstandard2.0\witchcraft.dll
+D:\VSMods\Witchcraft\obj\Debug\netstandard2.0\witchcraft.pdb

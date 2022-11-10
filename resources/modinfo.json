@@ -1,0 +1,14 @@
+{
+    "type": "code",
+    "modid": "witchcraft",
+    "name": "Gabb's Witchcraft",
+    "author": "gabb",
+    "description": "Adds my own flavor of witchcraft-esque magic to the game.",
+    "version": "0.0.0",
+    "dependency": {
+      "game": "",
+      "aculinaryartillery": "1.0.0",
+      "wildcraft": "1.5.1"
+    }
+  }
+  
