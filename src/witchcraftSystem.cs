@@ -86,7 +86,7 @@ namespace witchcraft
         {
             Mod.Logger.Event("Applying Harmony patches");
             var harmony = new Harmony("witchcraft");
-            var original = typeof(CollectibleObject).GetMethod("tryEAtStop");
+            var original = typeof(CollectibleObject).GetMethod("tryEatStop");
             var patches = Harmony.GetPatchInfo(original);
             if (patches != null && patches.Owners.Contains("witchcraft"))
             {
